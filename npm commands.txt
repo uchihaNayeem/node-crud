@@ -16,4 +16,3 @@
 	# "start": "nodemon index.js",
 
 
-note: mongo pass 
