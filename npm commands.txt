@@ -16,3 +16,4 @@
 	# "start": "nodemon index.js",
 
 
+6. open a file (.gitignore)
