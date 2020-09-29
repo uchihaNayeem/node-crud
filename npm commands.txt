@@ -1,7 +1,7 @@
 
 
 1. to create nodefile:
-	# npm init
+	# npm init (several instruction)
 
 2. install express & mongoDB 
 	# npm install express mongodb
