@@ -17,3 +17,4 @@
 
 
 6. open a file (.gitignore)
+	then node_modules/   and save, to avoid upload that file
