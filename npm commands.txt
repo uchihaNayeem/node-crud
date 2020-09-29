@@ -1,0 +1,16 @@
+
+
+1. to create nodefile:
+	# npm init
+
+2. install express & mongoDB 
+	# npm install express mongodb
+
+3. install nodemon(used for efficient reload node page)
+	# npm install --save-dev nodemon
+
+4. intall cors and body-parser
+	# npm install --save cors body-parser
+
+5.package.json, scripts, add this one:
+	# "start": "nodemon index.js",
